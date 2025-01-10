@@ -42,7 +42,7 @@ With over **20 years of experience** in software development, I specialize in bu
 *Community-maintained PHP client for OpenAI API*  
 - Simplifies integration with **OpenAI's API** for PHP developers.
 
-### [🚗 RideLogger (Caloboo Revamp)](Coming Soon)  
+### [🚗 RideLogger ](Coming Soon)  
 *Ultimate vehicle expense tracker*  
 - A comprehensive app for managing **fuel**, **service**, and **expense** logs, now expanding to the **German market**.
 
